@@ -1,0 +1,25 @@
+Student
+Name
+id
+BRANCH
+Email
+Subject-sql,webservice,java
+
+
+<Student>
+<Name> Samrudhi</Name>
+<id>334</id>
+<Branch> bsc cs</Branch>
+<Email>samrudhipadmawar@gmail.com</Email>
+<Subject>sql,webservice,java</Subject>
+</Student>
+
+
+
+
+
+
+
+<employee>
+  <Emp_sal></Emp_sal>
+</employee>
